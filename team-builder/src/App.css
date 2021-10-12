@@ -1,0 +1,41 @@
+
+
+
+.App-header{
+  width: 100%;
+  background-color: rgb(48, 47, 47);
+}
+
+.formHolder{
+  display: flex;
+  align-self:center;
+  justify-content: center;
+  width: 70%;
+  height: 80%;
+  background-color: rgb(182, 176, 176);
+}
+.Main{
+  padding: 0% 0% 0% 0%;
+  height: 1%;
+  width: 80%;
+  display: flex;
+  flex-wrap: wrap;
+  align-self: center;
+  justify-content: center;
+  align-content: center;
+}
+.i{
+  padding: 5% 1% 5% 1%;
+}
+.sub{
+  margin: 7% 5% 5% 5%;
+  height: 500%;
+  width: 10%;
+}
+.App{
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+}
